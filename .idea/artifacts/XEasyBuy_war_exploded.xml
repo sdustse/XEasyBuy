@@ -1,0 +1,13 @@
+<component name="ArtifactManager">
+  <artifact type="exploded-war" name="XEasyBuy:war exploded">
+    <output-path>$PROJECT_DIR$/out/artifacts/XEasyBuy_war_exploded</output-path>
+    <root id="root">
+      <element id="directory" name="WEB-INF">
+        <element id="directory" name="classes">
+          <element id="module-output" name="XEasyBuy" />
+        </element>
+      </element>
+      <element id="javaee-facet-resources" facet="XEasyBuy/web/Web" />
+    </root>
+  </artifact>
+</component>
